@@ -6,4 +6,5 @@
 4. I have created a new branch called merge demo
 5. I am continue working on my project from branch main
 6. I am on the pr-demo branch
+7. I am on pr conflicts branch
 
