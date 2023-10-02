@@ -2,3 +2,4 @@
 
 1. We have created a new folder and inside that new folder, we created a README.md
 2. Initilize a git repository in the new folder
+3. I have created a new branch called merge demo
